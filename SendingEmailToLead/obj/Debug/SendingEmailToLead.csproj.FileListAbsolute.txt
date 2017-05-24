@@ -1,0 +1,11 @@
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\bin\Debug\SendingEmailToLead.dll
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\bin\Debug\SendingEmailToLead.pdb
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\obj\Debug\SendingEmailToLead.dll
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\obj\Debug\SendingEmailToLead.pdb
+c:\users\hda6kor\documents\visual studio 2015\Projects\SendingEmailToLead\SendingEmailToLead\obj\Debug\SendingEmailToLead.csprojResolveAssemblyReference.cache
