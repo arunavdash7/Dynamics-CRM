@@ -1,5 +1,5 @@
 function ExecuteFetchXML()
-{
+{// onload of account form retrieving all account records and showing it using alert message
 debugger;
  var accountfetchxml = "<fetch version='1.0' output-format='xml-platform' mapping='logical' distinct='false'>"+
 "  <entity name='account'>"+
